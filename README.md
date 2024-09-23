@@ -1,2 +1,36 @@
-# My-Personal-Projects-Portfolio
-My Personal Projects
+# 🤔 My-Personal-Projects-Portfolio
+
+*최종 업데이트: 2024년 9월 23일*
+
+<br>
+
+안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들을 모아놓은 포트폴리오**입니다.😊 <br>
+
+<br>
+
+### 🎖️ Infra 프로젝트 목록 🎖️
+
+| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
+|----|---------------|------|-----------|----------|------|------|
+| 1  |  |  |  |  |  |  |
+
+
+<br>
+
+### ✨ Dev 프로젝트 목록 ✨
+
+| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
+|----|---------------|------|-----------|----------|------|------|
+| 1  | **Neo-Market** | 경매&중고거래 플랫폼. ELK를 통해 유저&경매 데이터 분석 및 모니터링 구현 | JPA, ELK, AWS, MySQL, Docker, Redis | 4인 | [GitHub 링크](https://github.com/Neo-Market) | 2024-08-02 |
+| 2  | **패션 아카이빙 웹사이트** | 2024년 건국 대학교 의상디자인학과 졸업전시패션쇼 아카이빙 웹페이지 | AWSm NginX, Vue,js | 2인 | [GitHub 링크](https://github.com/FASHION-ARCHIVE/fashion) | 2024-05-25 |
+| 3  | **E-Class 시스템** | 대학교에서 교수, 학생, 관리자가 사용할 수 있는 E-Class 시스템 | JPA, MySQL, Vue.js | 3인    | [GitHub 링크](https://github.com/jiione/new-klas-BE) | 2023-06-07 |
+| 4  | **[모투겜] 모두의 투자 게임** | 짧은 시간 동안 가상 투자를 하는 게임. 5턴 동안 500만원의 시드머니를 통해 얻은 수익으로 경쟁하는 게임 | JPA, Docker, AWS, Jenkins, Jacoco, React, MySQL | 9인 | [GitHub 링크](https://github.com/orgs/Team-MTG/repositories) | 2022-12-20 |
+| 5  | **공기질 시각화 인터페이스** | 공기질 분석 장치에서 수집한 공기질 데이터를 시각화하여 사용자와 관리자가 쉽게 데이터를 분석할 수 있는 대시보드 웹 애플리케이션 | Spring Boot, Naver Cloud, MongoDB, React | 5인 | [GitHub 링크](https://github.com/KW-TwoParkHanJungLim/Back-End) | 2022-12-12 |
+| 6  | **증권 거래 플랫폼** | 주식 데이터를 크롤링하여 동작하는 가상 주식 트레이딩 웹 페이지 | myBatis, Spring Security, MySQL, React | 4인 | [GitHub 링크](https://github.com/KW-Database/Back-End) | 2022-09-07 |
+| 7  | **홍채 인식을 통한 거짓말 탐지기** | 홍채를 인식하여 맥박을 재고 해당 정보를 이용하여 시용자가 현재 거짓말을 하는지 판별하는 웹 애플리케이션 | Spring Boot, JS, HTML, CSS, Cardivu API | 3인 | [GitHub 링크](https://github.com/orgs/API-SODE/repositories) | 2024-08-16 |
+
+
+
+---
+
+이 포트폴리오는 지속적으로 업데이트됩니다.
