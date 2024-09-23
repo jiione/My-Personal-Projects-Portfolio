@@ -14,8 +14,8 @@
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **vSphere DRS**  | vSphere DRS 구축과 이해 | vCenter, vSphere | 4인 | [GitHub 링크](https://github.com/WooriFISA-VMware/vSphereDRS?tab=readme-ov-file) | 2024-09-13 |
 | 2  | **PAM 비밀번호 정책 설정**  | PAM(Pluggable Authentication Modules)을 사용하여 비밀번호를 8자리 이상으로 규제 | Linux, PAM | 개인 | [GitHub 링크](https://github.com/jiione/PAM-Demo) | 2024-09-19 |
-| 3  | **일일 시스템 모니터링 툴**  | 정기적인 시스템 상태 체크 및 보고서 생성 | Linux, Crontab | 3인 | [GitHub 링크]([https://github.com/jiione/PAM-Demo](https://github.com/jiione/Crontab-Demo)) | 2024-09-20 |
-| 4  | **시스템 평균 부하**  | 시스템 평균 부하 이해 및 모니터링 | Linux, AverageLoad, stress | 2인 | [GitHub 링크]([https://github.com/jiione/AverageLoad-Demo)) | 2024-09-23 |
+| 3  | **일일 시스템 모니터링 툴**  | 정기적인 시스템 상태 체크 및 보고서 생성 | Linux, Crontab | 3인 | [GitHub 링크](https://github.com/jiione/PAM-Demo) | 2024-09-20 |
+| 4  | **시스템 평균 부하**  | 시스템 평균 부하 이해 및 모니터링 | Linux, AverageLoad, stress | 2인 | [GitHub 링크](https://github.com/jiione/AverageLoad-Demo) | 2024-09-23 |
 
 
 
