@@ -1,6 +1,6 @@
 # 🤔 My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 9월 23일*
+*최종 업데이트: 2024년 9월 24일*
 
 <br>
 
