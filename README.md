@@ -17,7 +17,7 @@
 | 3 | **일일 시스템 모니터링 툴**  | 정기적인 시스템 상태 체크 및 보고서 생성 | Linux, Crontab, Shell | 3인 | [GitHub 링크](https://github.com/jiione/PAM-Demo) | 2024-09-20 |
 | 4 | **시스템 평균 부하**  | 시스템 평균 부하 이해 및 모니터링 | Linux, AverageLoad, stress | 2인 | [GitHub 링크](https://github.com/jiione/AverageLoad-Demo) | 2024-09-23 |
 | 5 | **도커 이미지 경량화**  |  Docker 이미지 크기를 줄여 배포 속도와 성능을 최적화하고, 보안성 향상 | Linux, Docker | 개인 | [GitHub 링크](https://github.com/jiione/Docker-Optimization-Demo) | 2024-09-24 |
-| 6 | **Trivy 기반 동적 컨테이너 보안 모니터링 시스템**  | 실행 중인 컨테이너 환경을 지속적으로 모니터링하고, 새로 발견된 취약점에 대해 실시간 알림을 제공하는 시스템을 구축합니다. | Linux, Docker, Trivy | 4인 | [GitHub 링크](https://github.com/jiione/Trivy-Monitor) | 2024-09-25 |
+| 6 | **Trivy 기반 이미지 모니터링 시스템**  | Trivy를 사용하여 이미지 스캔 및 Critical 취약점 Slack 알림 설정 | Linux, Docker, Trivy | 4인 | [GitHub 링크](https://github.com/jiione/Trivy-Monitor) | 2024-09-25 |
 
 
 
