@@ -18,7 +18,7 @@
 | 4 | **시스템 평균 부하**  | 시스템 평균 부하 이해 및 모니터링 | Linux, AverageLoad, stress | 2인 | [GitHub 링크](https://github.com/jiione/AverageLoad-Demo) | 2024-09-23 |
 | 5 | **도커 이미지 경량화**  |  Docker 이미지 크기를 줄여 배포 속도와 성능을 최적화하고, 보안성 향상 | Linux, Docker | 개인 | [GitHub 링크](https://github.com/jiione/Docker-Optimization-Demo) | 2024-09-24 |
 | 6 | **Trivy 기반 이미지 모니터링 시스템**  | Trivy를 사용하여 이미지 스캔 및 Critical 취약점 Slack 알림 설정 | Linux, Docker, Trivy | 4인 | [GitHub 링크](https://github.com/jiione/Trivy-Monitor) | 2024-09-25 |
-| 7 | **k8s-Deployment**  | Spring Application Kubernetes Deployment Guide | Linux, Docker, k8s | 개인 | [GitHub 링크](https://github.com/jiione/K8S-Deployment-Demo) | 2024-10-2 |
+| 7 | **k8s-Deployment**  | Spring Application Kubernetes Deployment Guide | Linux, Docker, k8s | 개인 | [GitHub 링크](https://github.com/jiione/K8S-Deployment-Demo) | 2024-10-02 |
 
 
 
