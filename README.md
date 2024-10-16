@@ -1,6 +1,6 @@
 # 🤔 My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 10월 11일*
+*최종 업데이트: 2024년 10월 16일*
 
 <br>
 
@@ -21,6 +21,7 @@
 | 7 | **k8s-Deployment**  | Spring Application Kubernetes Deployment Guide | Linux, Docker, k8s | 개인 | [GitHub 링크](https://github.com/jiione/K8S-Deployment-Demo) | 2024-10-02 |
 | 8 | **애플리케이션 과부화 테스트 및 모니터링**  | JMeter를 이용한 애플리케이션 과부하 테스트 및 prometheus와 grafana를 이용한 모니터링 | Linux, Spring Boot, JMeter, Prometheus, grafana | 3인 | [GitHub 링크](https://github.com/jiione/Overload-Monitoring) | 2024-10-08 |
 | 9 | **AWS CICD**  | Spring Boot 애플리케이션을 위한 CI/CD 파이프라인 구축 | Linux, Spring Boot, EC2, Docker, Jenkins | 4인 | [GitHub 링크](https://github.com/jiione/AWS-CICD-Demo) | 2024-10-11 |
+| 9 | **Terrafrom S3 Web Hosting**  | Terraform을 사용하여 S3 버킷을 생성하고, 해당 버킷을 통해 정적 웹사이트를 호스팅하는 과정을 자동화합니다 | Terraform, Linux, S3 | 개인 | [GitHub 링크]([https://github.com/jiione/AWS-CICD-Demo](https://github.com/jiione/Terraform-s3-Demo)) | 2024-10-16 |
 
 
 
